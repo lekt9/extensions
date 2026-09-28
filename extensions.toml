@@ -3357,6 +3357,11 @@ version = "0.0.2"
 submodule = "extensions/mcp-server-threadbridge"
 version = "0.2.1"
 
+[mcp-server-unbrowse]
+submodule = "extensions/mcp-server-unbrowse"
+path = "plugins/zed"
+version = "0.1.0"
+
 [mcp-server-webflow]
 submodule = "extensions/mcp-server-webflow"
 version = "0.1.0"
